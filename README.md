@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 [![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinNM&theme=radical)
 )](https://github.com/ValentinNM/github-readme-stats)
+
+[![Valentin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valentin_nm)](https://github.com/valentin_nm/github-readme-stats)

@@ -1,13 +1,7 @@
-<!--
-**ValentinNM/ValentinNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
+<!--  **ValentinNM/ValentinNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center"> Hello World 👋 </h1>
 <h3 align="center"> chasing goals or chasing bugs feels the same to me </h3>
-
 
 Here are some **facts** about myself:
 
@@ -46,21 +40,23 @@ Here are some **facts** about myself:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=valentin_nm&layout=compact&theme=tokyonight" />
 </a>
 
-<a align="center" href="https://github.com/ValentinNM/github-readme-stats">
-<!--   <img src="https://komarev.com/ghpvc/?username=ValentinNM" alt="Profile Views" width="90" height="40"/> -->
+  <!--   <img src="https://komarev.com/ghpvc/?username=ValentinNM" alt="Profile Views" width="90" height="40"/> -->
+
+
+<a href="https://github.com/ValentinNM/github-readme-stats">
+  <h4> Check me out ⤵️ </h4>  
 
   <a href="https://twitter.com/valentin_nm" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="valentin_nm" height="30" width="30"  />
+   <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="valentin_nm" height="30" width="30"  />
   </a>
-<a href="https://www.linkedin.com/in/valentin-nm/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="valentin_nm" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/valentin-nm/" target="blank">
+    <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="valentin_nm" height="30" width="30" />
+  </a>
+  <a href="https://www.instagram.com/valentin_nm/" target="blank">
+    <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@valentin_nm" height="30" width="30" />
+  </a>
+    <!-- <a href="https://medium.com/@username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"            alt="https://medium.com/@username" height="30" width="30" /></a> -->
+  <a href="https://www.youtube.com/channel/UCl6pDzCPvWr6IKS6YwlmRkA" target="blank">
+    <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Valentin Mocanu" height="30" width="30" />
+  </a>
 </a>
-<a href="https://www.instagram.com/valentin_nm/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@valentin_nm" height="30" width="30" />
-</a>
-<!-- <a href="https://medium.com/@username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@username" height="30" width="30" /></a> -->
-<a href="https://www.youtube.com/channel/UCl6pDzCPvWr6IKS6YwlmRkA" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Valentin Mocanu" height="30" width="30" />
-</a>  
-</a>
-

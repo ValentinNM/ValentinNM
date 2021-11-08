@@ -13,10 +13,10 @@ Here are some **facts** about myself:
 
 - 🌱  I’m currently learning JS, React, **C++**
 - 🔭  I’m working on **Improving** my **Problem Solving** **skills**
-- 🤝  I’m looking to collaborate on Web Application projects
+- 🤝  I’m looking to collaborate on **Web Application** projects
 - 😒  I’m looking for help with **C++**
-- 💬  Ask me about **JS, React, Fitness, Boosk**
-- 📫  How to reach me: **@valentin_nm**
+- 💬  Ask me about **JS, React, Fitness, Books**
+- 📫  How to reach me: **valentin.web@outlook.com**
 - ⚡   Fun fact: **IDK** what am doing 🤷🏻‍♂️
 
 <p align="left">

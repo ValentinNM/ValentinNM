@@ -31,7 +31,6 @@ Here are some **facts** about myself:
 <img src="https://user-images.githubusercontent.com/50510726/107740654-a8ef1d00-6d31-11eb-8847-516b42837ed3.png" alt="cplusplus" width="40" height="40"/>
 </p>
 
-
 <!-- ## smth -->
 <!-- [![Valentin's GitHub stats] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
@@ -39,16 +38,29 @@ Here are some **facts** about myself:
 </a>
 <!-- [![Top Langs] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
-<!-- add:  &layout=compact    -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinNM&show_icons=true&theme=tokyonight&langs_count=8" />
 </a>
+
 <!-- [![Valentin's wakatime stats] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=valentin_nm&layout=compact&theme=tokyonight" />
 </a>
-<!-- [![Readme Card] -->
-<!-- 
-<a href="https://github.com/ValentinNM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinNM&layout=compact&theme=tokyonight&repo=github-readme-stats" />
+
+<a align="center" href="https://github.com/ValentinNM/github-readme-stats">
+<!--   <img src="https://komarev.com/ghpvc/?username=ValentinNM" alt="Profile Views" width="90" height="40"/> -->
+
+  <a href="https://twitter.com/valentin_nm" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="valentin_nm" height="30" width="30"  />
+  </a>
+<a href="https://www.linkedin.com/in/valentin-nm/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="valentin_nm" height="30" width="30" />
 </a>
--->
+<a href="https://www.instagram.com/valentin_nm/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@valentin_nm" height="30" width="30" />
+</a>
+<!-- <a href="https://medium.com/@username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@username" height="30" width="30" /></a> -->
+<a href="https://www.youtube.com/channel/UCl6pDzCPvWr6IKS6YwlmRkA" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Valentin Mocanu" height="30" width="30" />
+</a>  
+</a>
+

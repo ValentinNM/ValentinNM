@@ -31,6 +31,8 @@ Here are some facts about myself:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=valentin_nm&layout=compact&theme=tokyonight" />
 </a>
 <!-- [![Readme Card] -->
+<!-- 
 <a href="https://github.com/ValentinNM/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinNM&layout=compact&theme=tokyonight&repo=github-readme-stats" />
 </a>
+-->

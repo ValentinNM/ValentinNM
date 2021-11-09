@@ -44,7 +44,8 @@ Here are some **facts** about myself:
 
 
 <a href="https://github.com/ValentinNM/github-readme-stats">
-  <h4> Check me out ⤵️ </h4>  
+<p align="centre">
+<h4> Check me out ⤵️ </h4>  
 
   <a href="https://twitter.com/valentin_nm" target="blank">
    <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="valentin_nm" height="30" width="30"  />
@@ -59,4 +60,5 @@ Here are some **facts** about myself:
   <a href="https://www.youtube.com/channel/UCl6pDzCPvWr6IKS6YwlmRkA" target="blank">
     <img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Valentin Mocanu" height="30" width="30" />
   </a>
+ </p>
 </a>

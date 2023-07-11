@@ -5,11 +5,11 @@
 
 Here are some **facts** about myself:
 
-- 🌱  I’m currently learning JS, **C++**, GraphQL, MondgoDB
-- 🔭  I’m working on **Improving** my **Problem Solving skills** and **DSA**
-- 🤝  I’m looking to collaborate on **Web Application** projects
+- 🌱  I’m currently learning TS, **Python**, GraphQL and AWS
+- 🔭  I’m working on **Improving** my **DSA** and **Design** skills
+- 🤝  I’m looking to collaborate on **Web** and **Mobile** App projects
 - 😒  I’m looking for help with **C++**
-- 💬  Ask me about **JS, React, Fitness, Books**
+- 💬  Ask me about **JS, React, AWS, Fitness**
 - 📫  How to reach me: **valentin.web@outlook.com**
 - ⚡   Fun fact: **IDK** what am doing 🤷🏻‍♂️
 
@@ -28,11 +28,12 @@ Here are some **facts** about myself:
 <!-- ## smth -->
 <!-- [![Valentin's GitHub stats] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValentinNM&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ValentinNM&include_orgs=true&show_icons=true&theme=tokyonight&locale=en" />
 </a>
+
 <!-- [![Top Langs] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinNM&show_icons=true&theme=tokyonight&langs_count=8" />
+<!--   <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ValentinNM&show_icons=true&theme=tokyonight&langs_count=8" /> -->
 </a>
 
 <!-- [![Valentin's wakatime stats] -->

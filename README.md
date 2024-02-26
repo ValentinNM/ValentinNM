@@ -12,6 +12,7 @@ Here are some **facts** about myself:
 - 💬  Ask me about **JS, React, AWS, Fitness**
 - 📫  How to reach me: **valentin.web@outlook.com**
 - ⚡   Fun fact: **IDK** what am doing 🤷🏻‍♂️
+- 👀  Stalkers: <div> <img src="https://komarev.com/ghpvc/?username=ValentinNM" alt="Profile Views" width="90" height="40"/> </div>
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
@@ -28,6 +29,10 @@ Here are some **facts** about myself:
 <!-- [![WAKATIME TOP LANG EMBEDED IMG - REAL TIME UPDATE] -->
 <!-- <img align="center" src="https://wakatime.com/share/@valentin_nm/b66172c4-5e4b-4207-92b3-ba80b83e44ae.svg" /> -->
 
+<h4 style="color:green" > Wakatime Coding Activity </h4>  
+<img align="center" src="https://wakatime.com/share/@valentin_nm/afea223a-e7e7-4917-b62b-fcf201323a35.svg" />
+
+
 <!-- ## smth -->
 <!-- [![Valentin's GitHub stats] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
@@ -36,16 +41,13 @@ Here are some **facts** about myself:
 
 <!-- [![Top Langs] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
-<!--   <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ValentinNM&show_icons=true&theme=tokyonight&langs_count=8" /> -->
+  <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ValentinNM&show_icons=true&theme=tokyonight&langs_count=8" />
 </a>
 
 <!-- [![Valentin's wakatime stats] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=valentin_nm&layout=compact&theme=tokyonight" />
 </a>
-
-  <!--   <img src="https://komarev.com/ghpvc/?username=ValentinNM" alt="Profile Views" width="90" height="40"/> -->
-
 
 <a href="https://github.com/ValentinNM/github-readme-stats">
 <p align="centre">

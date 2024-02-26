@@ -25,6 +25,9 @@ Here are some **facts** about myself:
 <img src="https://user-images.githubusercontent.com/50510726/107740654-a8ef1d00-6d31-11eb-8847-516b42837ed3.png" alt="cplusplus" width="40" height="40"/>
 </p>
 
+<!-- [![WAKATIME TOP LANG EMBEDED IMG - REAL TIME UPDATE] -->
+<!-- <img align="center" src="https://wakatime.com/share/@valentin_nm/b66172c4-5e4b-4207-92b3-ba80b83e44ae.svg" /> -->
+
 <!-- ## smth -->
 <!-- [![Valentin's GitHub stats] -->
 <a href="https://github.com/ValentinNM/github-readme-stats">

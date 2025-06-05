@@ -1,18 +1,29 @@
 <!--  **ValentinNM/ValentinNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center"> Hello World 👋 </h1>
-<h3 align="center"> chasing goals or chasing bugs feels the same to me </h3>
+<!-- <h3 align="center"> chasing goals or chasing bugs feels the same to me </h3> -->
 
-Here are some **facts** about myself:
+I'm **Valentin** — a Full-Stack Software Engineer passionate about building scalable web apps with **TypeScript**, **React**, **Node.js**, and **AWS**.  
 
-- 🌱  I’m currently learning TS, **Python**, GraphQL and AWS
-- 🔭  I’m working on **Improving** my **DSA** and **Design** skills
-- 🤝  I’m looking to collaborate on **Web** and **Mobile** App projects
-- 😒  I’m looking for help with **C++**
-- 💬  Ask me about **JS, React, AWS, Fitness**
-- 📫  How to reach me: **valentin.web@outlook.com**
-- ⚡   Fun fact: **IDK** what am doing 🤷🏻‍♂️
-- 👀  Stalkers: <div> <img src="https://komarev.com/ghpvc/?username=ValentinNM" alt="Profile Views" width="90" height="40"/> </div>
+**💻 I enjoy working with:**  
+→ ⚙️ Full-stack JS (React, Next, Node, Nest)  
+→ ☁️ AWS & serverless architecture  
+→ 🧠 Clean code, performance optimisation, and automation
+
+🧰 **Tech I vibe with:**  
+→ React, Next.js, JS/TS, Tailwind CSS, Material UI, Ant Design, Styled Components, SCSS  
+→ Node.js, NestJS, Express.js, Python, RESTful APIs, GraphQL  
+→ PostgreSQL, MongoDB, DynamoDB, ElasticSearch (OpenSearch), Prisma  
+→ AWS, GCP, Serverless, Docker, CI/CD  
+→ Jest, Jasmine, Postman, Swagger, Selenium, Storybook  
+
+💡 **Currently Learning:** AI fundamentals, Prompt Engineering, Ruby on Rails, System Design  
+⚡ **Building**: Things that scale & bigger 💪  
+💬 **Let’s chat about**: JS, AWS, productivity tools, or staying fit while shipping code
+
+Always open to cool projects, good code, and better coffee ☕
+
+👀  Stalkers: <div> <img src="https://komarev.com/ghpvc/?username=ValentinNM" alt="Profile Views" width="90" height="40"/> </div>
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
